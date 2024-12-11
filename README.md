@@ -2,13 +2,13 @@
 
 Aplikasi Task Manager sederhana yang dibangun menggunakan Flask-RESTful. Aplikasi ini memungkinkan pengguna untuk mengelola tugas melalui API yang dapat digunakan untuk menambahkan, mengedit, menghapus, dan melihat daftar tugas.
 
-## Fitur
+## 🎯Fitur
 - **Tambah Tugas**: Menambahkan tugas baru melalui endpoint API.
 - **Edit Tugas**: Memperbarui tugas yang sudah ada melalui endpoint API.
 - **Hapus Tugas**: Menghapus tugas dari daftar melalui endpoint API.
 - **Lihat Tugas**: Menampilkan semua tugas yang ada melalui endpoint API.
 
-## Teknologi
+## ⚙️Teknologi
 - ![Python](https://img.shields.io/badge/Python-3.8+-blue) **Python**: Bahasa pemrograman utama untuk aplikasi.
 - ![Flask](https://img.shields.io/badge/Flask-2.1+-red) **Flask**: Framework web untuk pengembangan aplikasi backend.
 - ![Flask-RESTful](https://img.shields.io/badge/Flask--RESTful-0.3.9-green) **Flask-RESTful**: Ekstensi Flask untuk membangun API RESTful dengan mudah.
