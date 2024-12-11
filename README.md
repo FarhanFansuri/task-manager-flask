@@ -18,9 +18,5 @@ Aplikasi Task Manager sederhana yang dibangun menggunakan Flask-RESTful. Aplikas
 ## Instalasi
 1. Clone repository ini:
    ```bash
-
-## Instalasi
-1. Clone repository ini:
-   ```bash
-   git clone [https://github.com/username/task-manager-flask.git](https://github.com/FarhanFansuri/task-manager-flask-restful.git)
+   git clone https://github.com/FarhanFansuri/task-manager-flask-restful.git
    cd task-manager-flask
