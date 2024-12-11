@@ -9,11 +9,11 @@ Aplikasi Task Manager sederhana yang dibangun menggunakan Flask-RESTful. Aplikas
 - **Lihat Tugas**: Menampilkan semua tugas yang ada melalui endpoint API.
 
 ## Teknologi
-- **Python**: Bahasa pemrograman utama untuk aplikasi.
-- **Flask**: Framework web untuk pengembangan aplikasi backend.
-- **Flask-RESTful**: Ekstensi Flask untuk membangun API RESTful dengan mudah.
-- **SQLite**: Database ringan untuk menyimpan data tugas.
-- **SQLAlchemy**: ORM untuk mengelola database dengan lebih mudah.
+- ![Python](https://img.shields.io/badge/Python-3.8+-blue) **Python**: Bahasa pemrograman utama untuk aplikasi.
+- ![Flask](https://img.shields.io/badge/Flask-2.1+-red) **Flask**: Framework web untuk pengembangan aplikasi backend.
+- ![Flask-RESTful](https://img.shields.io/badge/Flask--RESTful-0.3.9-green) **Flask-RESTful**: Ekstensi Flask untuk membangun API RESTful dengan mudah.
+- ![SQLite](https://img.shields.io/badge/SQLite-3.35+-green) **SQLite**: Database ringan untuk menyimpan data tugas.
+- ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-1.4+-orange) **SQLAlchemy**: ORM untuk mengelola database dengan lebih mudah.
 
 ## Instalasi
 1. Clone repository ini:
